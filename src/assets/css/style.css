@@ -1,0 +1,14 @@
+div#hero-section{
+    height: 80vh;
+    background-image: url("../images/onebg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+nav.navbar{
+    width: 100%;
+    height: fit-content;
+}
+img#zenos-toy{
+    height: 50vh;
+}
